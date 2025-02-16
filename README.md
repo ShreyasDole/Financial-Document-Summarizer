@@ -1,19 +1,25 @@
 ---
-title: **📊 Financial Report Analyzer**
-description: AI-powered tool to extract and summarize financial reports
----
 
-### **🚀 Overview**  
-**Financial Report Analyzer** is an **AI-powered tool** that allows users to **upload financial reports (PDFs), extract data**, and **generate AI-driven summaries** in a **modern dark mode UI**.  
+# 📊 Financial Report Analyzer  
+**AI-powered tool to extract and summarize financial reports using NLP**  
 
-🔹 **Extracts text from PDFs** 📄  
-🔹 **Summarizes reports using AI** 🤖  
-🔹 **Sleek dark mode UI with Streamlit** 🌙  
-🔹 **Fast and efficient processing** ⚡  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/Financial-Report-Analyzer?color=blue&style=flat)  
+![GitHub License](https://img.shields.io/github/license/your-username/Financial-Report-Analyzer?color=yellow)  
 
 ---
 
-### **📂 Folder Structure**
+## 🚀 Overview  
+**Financial Report Analyzer** is an AI-powered tool that allows users to:  
+
+✅ **Upload financial reports (PDFs)** 📄  
+✅ **Extract text from reports** using NLP  
+✅ **Generate AI-driven summaries** 🤖  
+✅ **View results in a modern dark mode UI** 🌙  
+✅ **Fast and efficient processing** ⚡  
+
+---
+
+## 📂 Project Structure  
 ```plaintext
 Financial-Report-Analyzer/
 │── app.py                # Main Streamlit app
@@ -29,35 +35,36 @@ Financial-Report-Analyzer/
 
 ---
 
-### **🔧 Installation & Setup**
-#### **1️⃣ Clone the Repository**
+## 🔧 Installation & Setup  
+
+### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/your-username/Financial-Report-Analyzer.git
 cd Financial-Report-Analyzer
 ```
 
-#### **2️⃣ Install Dependencies**
+### 2️⃣ Install Dependencies  
 ```bash
 pip install -r requirements.txt
 ```
 
-#### **3️⃣ Run the App**
+### 3️⃣ Run the App  
 ```bash
 streamlit run app.py
 ```
 
 ---
 
-### **⚙️ Features**
-✅ **Upload PDF Reports** – Supports financial reports in PDF format  
-✅ **Text Extraction** – Uses NLP to extract report data  
-✅ **AI-Powered Summarization** – Generates concise summaries  
-✅ **Dark Mode UI** – Designed for a sleek & modern experience  
-✅ **Fast Processing** – Quickly analyzes documents  
+## ⚙️ Features  
+✔ **Upload PDF Reports** – Supports financial reports in PDF format  
+✔ **Text Extraction** – Uses NLP to extract report data  
+✔ **AI-Powered Summarization** – Generates concise summaries  
+✔ **Dark Mode UI** – Designed for a sleek & modern experience  
+✔ **Fast Processing** – Quickly analyzes documents  
 
 ---
 
-### **💡 Tech Stack**
+## 💡 Tech Stack  
 🚀 **Python**  
 🚀 **Streamlit** (for UI)  
 🚀 **PyMuPDF (fitz)** (for PDF text extraction)  
