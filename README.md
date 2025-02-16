@@ -1,12 +1,10 @@
----
+
 
 # 📊 Financial Report Analyzer  
 **AI-powered tool to extract and summarize financial reports using NLP**  
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/Financial-Report-Analyzer?color=blue&style=flat)  
 ![GitHub License](https://img.shields.io/github/license/your-username/Financial-Report-Analyzer?color=yellow)  
-
----
 
 ## 🚀 Overview  
 **Financial Report Analyzer** is an AI-powered tool that allows users to:  
