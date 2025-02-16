@@ -2,7 +2,7 @@ import google.generativeai as genai
 import streamlit as st
 
 # Configure Google Gemini API
-API_KEY = "AIzaSyDShHY9qfVhRBUgrDHqVWilZfuNIa8pdgE"  # Replace with your API key
+API_KEY = "ENTER YOUR API"  # Replace with your API key
 genai.configure(api_key=API_KEY)
 
 def summarize_text(text):
