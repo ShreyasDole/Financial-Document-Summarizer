@@ -1,8 +1,6 @@
 ---
-
-## **📊 Financial Report Analyzer**  
-**AI-powered tool to extract and summarize financial reports using NLP**  
-
+title: **📊 Financial Report Analyzer**
+description: AI-powered tool to extract and summarize financial reports
 ---
 
 ### **🚀 Overview**  
