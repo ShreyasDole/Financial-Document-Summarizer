@@ -1,5 +1,3 @@
----
-
 ## **📌 HOW IT WORKS**  
 
 ### **1️⃣ Getting the API Key (Google Generative AI API)**  
