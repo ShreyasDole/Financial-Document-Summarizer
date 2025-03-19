@@ -1,5 +1,3 @@
-Here’s your **`HOW_IT_WORKS.md`** file with step-by-step explanations on setting up the API, understanding the code structure, and the workflow.  
-
 ---
 
 ## **📌 HOW IT WORKS**  
